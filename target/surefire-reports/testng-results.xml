@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-08T22:38:29 NPT" name="OpenCartSuite" finished-at="2023-01-08T22:39:22 NPT" duration-ms="53260">
+  <suite started-at="2023-01-09T21:29:51 NPT" name="OpenCartSuite" finished-at="2023-01-09T21:30:41 NPT" duration-ms="50038">
     <groups>
     </groups>
-    <test started-at="2023-01-08T22:38:29 NPT" name="OpenCartTest" finished-at="2023-01-08T22:39:22 NPT" duration-ms="53260">
+    <test started-at="2023-01-09T21:29:51 NPT" name="OpenCartTest" finished-at="2023-01-09T21:30:41 NPT" duration-ms="50038">
       <class name="testCases.TC_003_LoginDDT">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:38:29 NPT" name="setup" finished-at="2023-01-08T22:38:40 NPT" duration-ms="10578" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:29:51 NPT" name="setup" finished-at="2023-01-09T21:29:58 NPT" duration-ms="6698" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:38:42 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-08T22:38:45 NPT" duration-ms="3251" status="PASS">
+        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:00 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-09T21:30:03 NPT" duration-ms="2800" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_loginDDT -->
-        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:38:45 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-08T22:38:57 NPT" duration-ms="11483" status="PASS">
+        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:03 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-09T21:30:15 NPT" duration-ms="11539" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_loginDDT -->
-        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:38:57 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-08T22:39:08 NPT" duration-ms="11498" status="PASS">
+        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:15 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-09T21:30:26 NPT" duration-ms="11547" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,7 +81,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_loginDDT -->
-        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:39:08 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-08T22:39:20 NPT" duration-ms="11478" status="PASS">
+        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:26 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-09T21:30:38 NPT" duration-ms="11642" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,7 +102,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_loginDDT -->
-        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:39:20 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-08T22:39:22 NPT" duration-ms="1939" status="PASS">
+        <test-method signature="test_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:38 NPT" name="test_loginDDT" data-provider="LoginData" finished-at="2023-01-09T21:30:40 NPT" duration-ms="2592" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,7 +123,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_loginDDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-08T22:39:22 NPT" name="tearDown" finished-at="2023-01-08T22:39:22 NPT" duration-ms="366" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoginDDT@1a451d4d]" started-at="2023-01-09T21:30:40 NPT" name="tearDown" finished-at="2023-01-09T21:30:41 NPT" duration-ms="531" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
